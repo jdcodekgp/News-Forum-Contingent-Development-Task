@@ -1,16 +1,29 @@
-# news_forum
+# New Forum-Inter IIT Contingent Development Task
 
-Inter IIT Tech Team Development Task
+## Project Overview
 
-## Getting Started
+It's a news website named 'News Bite'. Which provides you latest news on various topics with city specific. Information like date, time, city, topic, editor details, etc are provided here. 
+This project is made using Flutter with Firebase integration. I have used Authentication, Firestore Database, Web Hosting, and Storage.
 
-This project is a starting point for a Flutter application.
+## Key features
+Get time and date details of news uploads.
 
-A few resources to get you started if this is your first Flutter project:
+Location-specific news. In this project, I have added some West Bengal cities for testing. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+News can be added from the website only. *Only admins can upload news.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Topic-specific news can be obtained. The filter has been given for the same.
+
+Newsletter subscription. Emails can be stored for mass mailing. 
+
+Images and Videos (optional) can be uploaded with news content. 
+
+A search bar is provided to search headlines with search keywords to make it simple to search.
+
+At the end of the news, the reader can see the editor's name and photo of that news. Details have been taken from Google sign-in for the same.
+
+## Website deployment link
+https://newsforum-e3174.firebaseapp.com/
+
+## Crucial Note
+Only added email IDs have access to publish news. If you want to add news please send your email id to jsdeshmukh2020@gmail.com or +917709174653 so that I can give access to you to publish.
